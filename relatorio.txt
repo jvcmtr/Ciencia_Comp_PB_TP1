@@ -1,0 +1,5 @@
+Quantidade de arquivos ordenados: 10009
+
+Bubble Sort:    0.0010 segundos
+Selection Sort: 1.9164 segundos
+Insertion Sort: 0.0016 segundos

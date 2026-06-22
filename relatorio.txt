@@ -1,5 +1,40 @@
-Quantidade de arquivos ordenados: 10009
+PROGRAMA 1: Tempo de execução dos algoritimos
+Quantidade de arquivos ordenados: 10001
 
 Bubble Sort:    0.0010 segundos
-Selection Sort: 1.9164 segundos
-Insertion Sort: 0.0016 segundos
+Selection Sort: 1.7936 segundos
+Insertion Sort: 0.0010 segundos
+
+---
+
+PROGRAMA 2: Tempo de execução e uso de memoria em estruturas de dados
+
+Inserção de 10001 itens:
+Estrutura   | Tempo de execução 	  	  	| Pico no no consumo de memoria
+HashTable:  | 3945424 nanosegundos 	  	  	| 588300 bytes 
+Stack:      |  241968 nanosegundos 	  	  	| 588300 bytes 
+Queue:      |  67614 nanosegundos 	  	  	| 588300 bytes 
+
+Leitura do item no indice 1
+Estrutura   | Tempo de execução 	  	  	| Pico no no consumo de memoria
+HashTable:  | 2102 nanosegundos  	  	  	| 92 bytes 
+Stack:      | 856 nanosegundos  	  	  	| 92 bytes 
+Queue:      | 915 nanosegundos  	  	  	| 92 bytes 
+
+Leitura do item no indice 100
+Estrutura   | Tempo de execução 	  	  	| Pico no no consumo de memoria
+HashTable:  | 1174 nanosegundos  	  	  	| 92 bytes 
+Stack:      | 736 nanosegundos  	  	  	| 92 bytes 
+Queue:      | 1166 nanosegundos  	  	  	| 92 bytes 
+
+Leitura do item no indice 1000
+Estrutura   | Tempo de execução 	  	  	| Pico no no consumo de memoria
+HashTable:  | 1124 nanosegundos  	  	  	| 92 bytes 
+Stack:      | 606 nanosegundos  	  	  	| 92 bytes 
+Queue:      | 785 nanosegundos  	  	  	| 92 bytes 
+
+Leitura do item no indice 5000
+Estrutura   | Tempo de execução 	  	  	| Pico no no consumo de memoria
+HashTable:  | 679 nanosegundos  	  	  	| 92 bytes 
+Stack:      | 516 nanosegundos  	  	  	| 92 bytes 
+Queue:      | 911 nanosegundos  	  	  	| 92 bytes 
